@@ -1,0 +1,21 @@
+id,brand,model,color,size,price,stock
+1001,Nike,Air Force 1,White,42,119.99,15
+1002,Nike,Air Force 1,White,43,119.99,8
+1003,Nike,Air Force 1,Black,42,119.99,0
+1004,Nike,Air Max 90,Infrared,44,149.99,3
+1005,Nike,Dunk Low,Panda,41,109.99,1
+1006,Adidas,Stan Smith,White/Green,42,99.99,12
+1007,Adidas,Stan Smith,White/Green,44,99.99,5
+1008,Adidas,Superstar,Black/White,43,109.99,0
+1009,Adidas,Yeezy Boost 350,Bone,42.5,229.99,2
+1010,Vans,Old Skool,Black,40,74.99,20
+1011,Vans,Old Skool,Black,41,74.99,18
+1012,Vans,Slip-On,Checkerboard,43,69.99,4
+1013,Converse,Chuck Taylor All Star,White,44,69.99,7
+1014,Converse,Chuck 70 High,Parchment,42,89.99,0
+1015,New Balance,550,White/Grey,43,129.99,6
+1016,New Balance,2002R,Protection Pack,44,159.99,1
+1017,Jordan,Air Jordan 1 High,Chicago,42.5,179.99,0
+1018,Jordan,Air Jordan 4,Black Canvas,44,209.99,2
+1019,Puma,Suede Classic,Black,42,79.99,10
+1020,Asics,Gel-Kayano 14,Silver/White,43,149.99,3
